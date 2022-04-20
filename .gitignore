@@ -1,0 +1,9 @@
+.build
+.cache
+.packages
+.pio
+.vscode
+.DS_Store
+compile_commands*
+due
+qemu
